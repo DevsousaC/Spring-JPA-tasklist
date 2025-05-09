@@ -1,0 +1,7 @@
+.task-done{
+    text-decoration: line-through;
+}
+
+.task-pending {
+    text-decoration: underline;
+}
